@@ -1,5 +1,7 @@
 <b>''Integrating Data and Project Management for Quality and Customer Value!"<b> 
 
+I am a Certified Scrum Master & Data Analytics Professional
+
 <h2> OVERVIEW :</h2>
 
 <b>DATA ANALYTICS </b>
