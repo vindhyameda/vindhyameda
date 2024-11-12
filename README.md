@@ -1,7 +1,8 @@
-<b>''Integrating Data and Project Management for Quality and Customer Value!"<b> 
 
-I am a Certified Scrum Master & Data Analytics Professional
+<h2>CERTIFIED SCRUM MASTER & DATA ANALYTICS PROFESSIONAL<h2>
+<a href="https://github.com/vindhyameda"> <b>''Integrating Data and Project Management for Quality and Customer Value!"<b>  </a>
 
+ 
 <h2> OVERVIEW :</h2>
 
 <b>DATA ANALYTICS </b>
@@ -19,7 +20,7 @@ I am a Certified Scrum Master & Data Analytics Professional
 - Create Agile metrics and visualization dashboards in AZURE, POWER BI, and TABLEAU for reporting team performance, sprint velocity and KPI deliverables to influence stakeholders.
 
 
-<b> QUALITY & TESTING </b>
+<b> QUALITY ASSURANCE & TESTING </b>
 
 - Document key processes, root cause analysis, wrote QA test cases in AZURE for functional and regression testing in Agile development.
 - Collaborated with IT to design quality evaluation templates and scorecards in GENESYS Cloud and UAT testing thereafter.
