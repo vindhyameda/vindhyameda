@@ -1,1 +1,1 @@
-Welcome to my Project Portfolio for Data Analytics, Visualization and Reporting.
+WELCOME TO MY PORTFOLIO FOR DATA ANALYTICS, ETL, VISUALIZATION AND REPORTING PROJECTS.
