@@ -34,6 +34,8 @@
 - MBA, Fairleigh Dickinson University, NJ-2007
 - MS in Pharma Sciences, Boston, MA-2004
 
+<h2>PORTFOLIO LINK:</h2>
+-[MY PORTFILIO](https://sites.google.com/d/1_az5R39XJoSTJfjWtrua_sLidKnRtstN/p/1zZ7HuKZm9njzvNqumXbiT0HHYPjwkElg/edit)
 
 <h2>PROJECTS ON GITHUB:</h2>
 
