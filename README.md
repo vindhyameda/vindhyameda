@@ -45,10 +45,12 @@
 
 - SQL: Analyzing Employee Salary Data using SYNTAX like WHERE, MAx, MIN, EMBEDDED SQL QUERY, GROUP BY, JOINS etc.
   - [EMPLOYEE REGION, DEPARTMENT, SALARY](https://github.com/vindhyameda/DATA-ANALYTICS/blob/main/SQLQuery1.sql)
+  - [NON-PROFIT DONATION TRENDS](https://github.com/vindhyameda/DATA-ANALYTICS-VISUALIZATION-REPORTING/blob/main/SQL%20file%20for%20GW%20Donation%20Trends.sql)
   
 - POWER BI: ETL Extraction, Transformation and Loading Tables from different type of files, Creating different appropiate visuals, designing and formatting reports.
   - [SURVEY_BREAKDOWN FOR DATA PROFESSIONAL](https://github.com/vindhyameda/DATA-ANALYTICS/blob/main/Power%20BI%20Beginners%20Project.pbix)
   - [FINANCE_GLOBAL SALES REPORT](https://github.com/vindhyameda/DATA-ANALYTICS/blob/main/Power%20BI%20Data%20Analytics%20Project.pbix)
+  - [NON-PROFIT DONATION TRENDS](https://github.com/vindhyameda/DATA-ANALYTICS-VISUALIZATION-REPORTING/blob/main/PowerBI%20GW%20Showcase%20Project.pbix)
       
 - PYTHON: Connecting to server, Importing LIBRARIES like PANDAS, PYODBC, CSV, using FUNCTIONS to run queries.
    - [NYC TAXI REFUND AND FARES](https://github.com/vindhyameda/DATA-ANALYTICS/blob/main/NYC%20Taxi%20Project.py)
