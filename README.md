@@ -1,5 +1,5 @@
 
-<h2>CERTIFIED SCRUM MASTER & DATA ANALYTICS PROFESSIONAL<h2>
+<h2>DATA ANALYTICS PROFESSIONAL | CERTIFIED SCRUM MASTER<h2>
 <a href="https://github.com/vindhyameda"> <b>''Integrating Data and Project Management for Quality and Customer Value!"<b>  </a>
 
  
